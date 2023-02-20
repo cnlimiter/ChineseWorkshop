@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "result": {
+    "item": "chineseworkshop:table"
+  },
+  "pattern": [
+    "***",
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "*": {
+      "tag": "wooden_pressure_plates"
+    },
+    "#": {
+      "tag": "forge:rods/wooden"
+    }
+  }
+}

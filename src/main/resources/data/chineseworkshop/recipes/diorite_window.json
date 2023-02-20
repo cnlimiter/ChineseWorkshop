@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "result": {
+    "item": "chineseworkshop:diorite_window",
+	"count": 4
+  },
+  "pattern": [
+    "d d",
+    "d d"
+  ],
+  "key": {
+    "d": {
+      "item" : "chineseworkshop:diorite_fence"
+    }
+  }
+}

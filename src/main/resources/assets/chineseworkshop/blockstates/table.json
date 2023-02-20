@@ -1,0 +1,17 @@
+{
+    "multipart": [
+        {   "apply": { "model": "chineseworkshop:block/table_top" }},
+        {   "when": { "se": "true" },
+            "apply": { "model": "chineseworkshop:block/table_leg1", "uvlock": true }
+        },
+        {   "when": { "sw": "true" },
+            "apply": { "model": "chineseworkshop:block/table_leg1", "y": 90, "uvlock": true }
+        },
+        {   "when": { "nw": "true" },
+            "apply": { "model": "chineseworkshop:block/table_leg1", "y": 180, "uvlock": true }
+        },
+        {   "when": { "ne": "true" },
+            "apply": { "model": "chineseworkshop:block/table_leg1", "y": 270, "uvlock": true }
+        }
+    ]
+}

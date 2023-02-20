@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cn.evolvefield.mods.chineseworkshop.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "chineseworkshop.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

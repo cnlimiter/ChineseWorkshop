@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "result": {
+    "item": "chineseworkshop:mendun",
+    "count": 2
+  },
+  "pattern": [
+    " # ",
+    "***"
+  ],
+  "key": {
+    "*": {
+      "item": "chineseworkshop:black_clay"
+    },
+    "#": {
+      "item": "chineseworkshop:black_clay_block"
+    }
+  }
+}

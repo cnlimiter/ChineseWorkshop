@@ -1,0 +1,7 @@
+{
+	"parent": "chineseworkshop:block/item_diorite_window",
+	"textures": {
+		"particle": "chineseworkshop:block/wooden_block",
+		"texture": "chineseworkshop:block/wooden_block"
+    }
+}

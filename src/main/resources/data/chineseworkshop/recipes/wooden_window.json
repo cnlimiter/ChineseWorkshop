@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "result": {
+    "item": "chineseworkshop:wooden_window",
+	"count": 4
+  },
+  "pattern": [
+    "d d",
+    "d d"
+  ],
+  "key": {
+    "d": {
+      "item": "chineseworkshop:oak_chinese_fence"
+    }
+  }
+}

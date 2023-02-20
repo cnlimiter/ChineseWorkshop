@@ -1,0 +1,6 @@
+{
+	"parent": "chineseworkshop:block/black/black_roof_tile_edge_j_w",
+	"textures": {
+		"wall": "chineseworkshop:block/rouge_brick"
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "top": "chineseworkshop:block/andesite_pavement",
+    "bottom": "chineseworkshop:block/andesite_pavement",
+    "side": "chineseworkshop:block/andesite_pavement"
+  }
+}

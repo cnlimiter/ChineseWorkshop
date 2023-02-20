@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "chineseworkshop:item/chinese_oak_door"
+    }
+}

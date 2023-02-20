@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "result": {
+    "item": "chineseworkshop:stone_threshold",
+    "count": 2
+  },
+  "pattern": [
+    "*",
+    "#"
+  ],
+  "key": {
+    "*": {
+      "item": "minecraft:smooth_stone_slab"
+    },
+    "#": {
+      "item": "minecraft:stone_brick_slab"
+    }
+  }
+}

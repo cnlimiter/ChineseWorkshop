@@ -1,0 +1,21 @@
+{
+  "type": "crafting_shaped",
+  "conditions": [
+    {
+      "type": "forge:false"
+    }
+  ],
+  "result": {
+    "item": "chineseworkshop:window_door",
+	"count": 1
+  },
+  "pattern": [
+    "*",
+    "*"
+  ],
+  "key": {
+    "*": {
+      "item" : "chineseworkshop:paper_window"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=south": { "model": "chineseworkshop:block/wooden_threshold" },
+    "facing=west": { "model": "chineseworkshop:block/wooden_threshold", "y": 90 },
+    "facing=north": { "model": "chineseworkshop:block/wooden_threshold", "y": 180 },
+    "facing=east": { "model": "chineseworkshop:block/wooden_threshold", "y": 270 }
+  }
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "chineseworkshop:block/black/black_tile_roof_ridge_edge_w",
+	"textures": {
+		"wall": "minecraft:block/cobblestone"
+    }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "result": {
+    "item": "chineseworkshop:oak_chinese_fence",
+    "count": 12
+  },
+  "pattern": [
+    "lsl",
+    "lsl"
+  ],
+  "key": {
+    "s": {
+      "item" : "minecraft:oak_fence"
+    },
+    "l": {
+      "tag" : "logs"
+    }
+  }
+}

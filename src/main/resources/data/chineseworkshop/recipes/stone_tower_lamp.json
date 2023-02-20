@@ -1,0 +1,26 @@
+{
+  "type": "crafting_shaped",
+  "result": {
+    "item": "chineseworkshop:stone_tower_lamp",
+    "count": 4
+  },
+  "pattern": [
+    " * ",
+    "*L*",
+    "#R#"
+  ],
+  "key": {
+    "*": {
+      "item": "chineseworkshop:black_brick"
+    },
+    "L": {
+      "item": "minecraft:redstone_lamp"
+    },
+    "#": {
+      "item": "minecraft:smooth_stone_slab"
+    },
+    "R": {
+      "tag" : "forge:dusts/redstone"
+    }
+  }
+}

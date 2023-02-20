@@ -1,0 +1,7 @@
+{
+  "parent": "chineseworkshop:block/roof_outer_y",
+  "textures": {
+    "particle": "chineseworkshop:block/yellow/yellow_tile_roof",
+    "block": "chineseworkshop:block/yellow/yellow_tile_roof"
+  }
+}

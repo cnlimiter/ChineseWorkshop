@@ -1,0 +1,20 @@
+{
+    "multipart": [
+        {   "apply": { "model": "chineseworkshop:block/wooden_window" }},
+        {   "when": { "OR": [ { "north": "true" }, { "south": "true" }, { "east": "true" }, { "west": "true" } ] },
+            "apply": { "model": "chineseworkshop:block/wooden_window_alt", "uvlock": true }
+        },
+        {   "when": { "north": "true" },
+            "apply": { "model": "chineseworkshop:block/wooden_window_side", "uvlock": true }
+        },
+        {   "when": { "east": "true" },
+            "apply": { "model": "chineseworkshop:block/wooden_window_side", "y": 90, "uvlock": true }
+        },
+        {   "when": { "south": "true" },
+            "apply": { "model": "chineseworkshop:block/wooden_window_side", "y": 180, "uvlock": true }
+        },
+        {   "when": { "west": "true" },
+            "apply": { "model": "chineseworkshop:block/wooden_window_side", "y": 270, "uvlock": true }
+        }
+    ]
+}

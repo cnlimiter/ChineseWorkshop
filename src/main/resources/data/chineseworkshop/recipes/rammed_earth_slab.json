@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shaped",
+  "result": {
+    "item": "chineseworkshop:rammed_earth_slab",
+    "count": 6
+  },
+  "pattern": [
+    "***"
+  ],
+  "key": {
+    "*": {
+      "item": "chineseworkshop:rammed_earth"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "crafting_shaped",
+  "conditions": [
+    {
+      "type": "forge:false"
+    }
+  ],
+  "result": {
+    "item": "chineseworkshop:thatch_roof_tile_edge",
+	"data": 0,
+    "count": 4
+  },
+  "pattern": [
+    "* ",
+    "/*"
+  ],
+  "key": {
+    "*": {
+      "item": "minecraft:wheat"
+    },
+	"/": {
+      "tag" : "plankWood"
+    }
+  }
+}

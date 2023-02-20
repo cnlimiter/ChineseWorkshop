@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "facing=south_north": { "model": "chineseworkshop:block/carving" },
+    "facing=east_west": { "model": "chineseworkshop:block/carving", "y": 90 }
+  }
+}

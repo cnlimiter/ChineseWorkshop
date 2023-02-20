@@ -1,0 +1,35 @@
+{
+  "type": "kiwi:retexture",
+  "conditions": [
+    {
+      "type": "kiwi:is_loaded",
+      "module": "chineseworkshop:retexture"
+    }
+  ],
+  "pattern": [
+    "###",
+    "#*#",
+    "###"
+  ],
+  "key": {
+    "#": [
+      {
+        "item": "chineseworkshop:bench"
+      },
+      {
+        "item": "chineseworkshop:bench_dyn"
+      }
+    ],
+    "*": {
+      "type": "kiwi:full_block"
+    }
+  },
+  "texture": {
+    "*": [ "main" ]
+  },
+
+  "result": {
+    "item": "chineseworkshop:bench_dyn",
+    "count": 8
+  }
+}

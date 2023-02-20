@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "variant=i": { "model": "chineseworkshop:block/yellow/yellow_roof_tile_ridge", "y": 90 },
+    "variant=i_90": { "model": "chineseworkshop:block/yellow/yellow_roof_tile_ridge" },
+    "variant=l": { "model": "chineseworkshop:block/yellow/yellow_roof_tile_ridge_l", "y": 90 },
+    "variant=l_90": { "model": "chineseworkshop:block/yellow/yellow_roof_tile_ridge_l", "y": 180 },
+    "variant=l_180": { "model": "chineseworkshop:block/yellow/yellow_roof_tile_ridge_l", "y": 270 },
+    "variant=l_270": { "model": "chineseworkshop:block/yellow/yellow_roof_tile_ridge_l" },
+    "variant=t": { "model": "chineseworkshop:block/yellow/yellow_roof_tile_ridge_t", "y": 180 },
+    "variant=t_90": { "model": "chineseworkshop:block/yellow/yellow_roof_tile_ridge_t", "y": 270 },
+    "variant=t_180": { "model": "chineseworkshop:block/yellow/yellow_roof_tile_ridge_t" },
+    "variant=t_270": { "model": "chineseworkshop:block/yellow/yellow_roof_tile_ridge_t", "y": 90 },
+    "variant=x": { "model": "chineseworkshop:block/yellow/yellow_roof_tile_ridge_x" }
+  }
+}

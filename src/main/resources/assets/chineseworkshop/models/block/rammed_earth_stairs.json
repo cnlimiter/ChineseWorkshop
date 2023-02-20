@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "top": "chineseworkshop:block/rammed_earth",
+    "bottom": "chineseworkshop:block/rammed_earth",
+    "side": "chineseworkshop:block/rammed_earth"
+  }
+}
